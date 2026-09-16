@@ -1,0 +1,12 @@
+# Credenciais - NUNCA subir isso
+.streamlit/secrets.toml
+
+# Ambiente virtual Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
