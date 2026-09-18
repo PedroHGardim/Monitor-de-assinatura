@@ -1,4 +1,4 @@
-# 📋 Painel de Atendimentos
+# 📋Monitor de Assinatura
 
 Painel interativo para acompanhamento de atendimentos médicos e status de assinatura eletrônica, construído com **Python** e **Streamlit**, com dados consultados diretamente de um banco **PostgreSQL**.
 
